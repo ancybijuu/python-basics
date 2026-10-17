@@ -1,4 +1,3 @@
-
 name = "Ancy"
 age = 21
 city = "Thiruvananthapuram"
