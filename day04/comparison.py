@@ -1,0 +1,11 @@
+print("===== COMPARISON OPERATORS =====")
+
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+
+print("Equal:", num1 == num2)
+print("Not Equal:", num1 != num2)
+print("Greater:", num1 > num2)
+print("Less:", num1 < num2)
+print("Greater or Equal:", num1 >= num2)
+print("Less or Equal:", num1 <= num2)
