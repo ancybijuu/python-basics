@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # 🐍 Python Coding Practice
 
@@ -102,4 +102,4 @@ I focus on solving coding questions independently, practicing consistently, and 
 
 **Code. Practice. Improve. Repeat.**
 
->>>>>>> 3ef70f7265c74dd542a8f94cecd49b38a0d42358
+
