@@ -6,3 +6,4 @@ city = "Thiruvananthapuram"
 print("Name:", name)
 print("Age:", age)
 print("City:", city)
+
